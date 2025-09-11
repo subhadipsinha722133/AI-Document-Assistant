@@ -21,15 +21,15 @@ A Streamlit application that allows you to chat with your PDF documents using lo
 
 
 # File Structure:
-   pdf-chatbot/
-├── app.py
-├── requirements.txt
-├── utils/
-│   ├── __init__.py
-│   ├── pdf_processor.py
-│   ├── embeddings.py
-│   └── chain_setup.py
-└── README.md
+   pdf-chatbot/ <br>
+├── app.py<br>
+├── requirements.txt<br>
+├── utils/<br>
+│   ├── __init__.py<br>
+│   ├── pdf_processor.py<br>
+│   ├── embeddings.py<br>
+│   └── chain_setup.py<br>
+└── README.md<br>
 
 
 # Install dependencies:
@@ -80,3 +80,4 @@ text
 4. You can change the model by modifying the model path in `utils/chain_setup.py`
 
 This implementation provides a complete, self-contained PDF chatbot that runs entirely on your local machine without any external API dependencies.
+
