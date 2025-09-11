@@ -12,3 +12,7 @@ pdf2image
 pillow
 pytesseract
 opencv-python
+pandas 
+numpy 
+matplotlib 
+plotly
