@@ -1,0 +1,14 @@
+streamlit
+langchain
+pypdf2
+faiss-cpu
+sentence-transformers
+ctransformers
+python-dotenv
+chromadb
+pdfplumber
+pymupdf
+pdf2image
+pillow
+pytesseract
+opencv-python
